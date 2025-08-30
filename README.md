@@ -19,3 +19,4 @@ Key concepts: dictionary, loops, input/output, arithmetic, file handling (CSV)
 
 OUTPUT
 
+<img width="1400" height="710" alt="Image" src="https://github.com/user-attachments/assets/1ea989b1-6c00-41bd-8570-79159fd9d058" />
