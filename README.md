@@ -7,23 +7,33 @@ A simple Python project that helps users calculate their total stock investment 
 🚀 Features
 
 Predefined stock prices stored in a dictionary
+
 User inputs stock ticker and quantity interactively
+
 Validates ticker and quantity
+
 Calculates individual holding values and total portfolio value
+
 Displays results in a formatted summary table
+
 Option to save results as CSV
 
 🛠️ Technologies Used
 
 Python 3
+
 Key concepts: dictionary, loops, input/output, arithmetic, file handling (CSV)
 
 ⚡ How to Run
 
 Make sure Python 3 is installed (python --version).
+
 Clone/download the project files.
+
 Run the script:
+
 python stock_tracker.py
+
 Enter tickers and quantities, then save results to CSV.
 
 OUTPUT
