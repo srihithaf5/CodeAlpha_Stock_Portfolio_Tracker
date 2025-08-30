@@ -14,10 +14,12 @@ Displays results in a formatted summary table
 Option to save results as CSV
 
 🛠️ Technologies Used
+
 Python 3
 Key concepts: dictionary, loops, input/output, arithmetic, file handling (CSV)
 
 ⚡ How to Run
+
 Make sure Python 3 is installed (python --version).
 Clone/download the project files.
 Run the script:
